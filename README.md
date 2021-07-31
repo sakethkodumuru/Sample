@@ -58,7 +58,7 @@
 <p>Open the skeleton program file, <strong><code>Task1.py</code></strong>.</p>
 </li>
 <li>
-<p>You will notice pre-written comments included in skeleton program for your assistance to solve the assignment.</p>
+<p>You will notice pre-written comments included in skeleton program for your assistance to solve this task.</p>
 </li>
 <li>
 <p>Two functions to modify are:</p>
